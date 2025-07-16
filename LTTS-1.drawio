@@ -214,6 +214,15 @@
             <mxPoint x="780" y="340" as="targetPoint" />
           </mxGeometry>
         </mxCell>
+        <mxCell id="yDYc_OmuOTv1EPIc6SDY-65" value="" style="image;aspect=fixed;html=1;points=[];align=center;fontSize=12;image=img/lib/azure2/other/Connected_Vehicle_Platform.svg;" vertex="1" parent="1">
+          <mxGeometry x="-30" y="349.5" width="65.38" height="50" as="geometry" />
+        </mxCell>
+        <mxCell id="yDYc_OmuOTv1EPIc6SDY-66" value="" style="endArrow=classic;html=1;rounded=0;" edge="1" parent="1">
+          <mxGeometry width="50" height="50" relative="1" as="geometry">
+            <mxPoint y="340" as="sourcePoint" />
+            <mxPoint y="280" as="targetPoint" />
+          </mxGeometry>
+        </mxCell>
       </root>
     </mxGraphModel>
   </diagram>

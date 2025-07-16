@@ -122,7 +122,7 @@
           <mxGeometry x="645.38" y="290" width="79.75" height="57" as="geometry" />
         </mxCell>
         <mxCell id="hn1NKW5ey4sbfua8mr8q-32" value="" style="rounded=0;whiteSpace=wrap;html=1;dashed=1;" vertex="1" parent="1">
-          <mxGeometry x="760" y="154.75" width="230" height="200" as="geometry" />
+          <mxGeometry x="760" y="155" width="230" height="198.75" as="geometry" />
         </mxCell>
         <mxCell id="hn1NKW5ey4sbfua8mr8q-73" value="" style="endArrow=classic;html=1;rounded=0;exitX=0.5;exitY=1;exitDx=0;exitDy=0;" edge="1" parent="1" source="hn1NKW5ey4sbfua8mr8q-68" target="hn1NKW5ey4sbfua8mr8q-10">
           <mxGeometry width="50" height="50" relative="1" as="geometry">
@@ -149,7 +149,7 @@
           <mxGeometry x="937.26" y="163.13" width="50" height="46.5" as="geometry" />
         </mxCell>
         <mxCell id="hn1NKW5ey4sbfua8mr8q-76" value="Raw S3" style="text;html=1;align=center;verticalAlign=middle;whiteSpace=wrap;rounded=0;" vertex="1" parent="1">
-          <mxGeometry x="381" y="461.5" width="70" height="57" as="geometry" />
+          <mxGeometry x="374" y="461.5" width="70" height="57" as="geometry" />
         </mxCell>
         <mxCell id="hn1NKW5ey4sbfua8mr8q-36" value="" style="shape=image;html=1;verticalAlign=top;verticalLabelPosition=bottom;labelBackgroundColor=#ffffff;imageAspect=0;aspect=fixed;image=https://cdn3.iconfinder.com/data/icons/ballicons-reloaded-free/512/icon-93-128.png" vertex="1" parent="1">
           <mxGeometry x="799.75" y="254.75" width="57.25" height="57.25" as="geometry" />
@@ -158,7 +158,7 @@
           <mxGeometry x="900" y="254.75" width="60" height="60" as="geometry" />
         </mxCell>
         <mxCell id="hn1NKW5ey4sbfua8mr8q-38" value="&lt;b&gt;Possible Outcomes&lt;/b&gt;" style="text;html=1;align=center;verticalAlign=middle;whiteSpace=wrap;rounded=0;" vertex="1" parent="1">
-          <mxGeometry x="834.3699999999999" y="110" width="81.25" height="47" as="geometry" />
+          <mxGeometry x="834.3699999999999" y="112" width="81.25" height="47" as="geometry" />
         </mxCell>
         <mxCell id="hn1NKW5ey4sbfua8mr8q-39" value="Automated Decision" style="text;html=1;align=center;verticalAlign=middle;whiteSpace=wrap;rounded=0;" vertex="1" parent="1">
           <mxGeometry x="767.38" y="203.25" width="81.25" height="47" as="geometry" />
@@ -185,10 +185,10 @@
           <mxGeometry x="660" y="390" width="50" height="50" as="geometry" />
         </mxCell>
         <mxCell id="hn1NKW5ey4sbfua8mr8q-55" value="Cognito" style="text;html=1;align=center;verticalAlign=middle;whiteSpace=wrap;rounded=0;" vertex="1" parent="1">
-          <mxGeometry x="700.75" y="470.5" width="70" height="57" as="geometry" />
+          <mxGeometry x="700.75" y="474.5" width="70" height="57" as="geometry" />
         </mxCell>
         <mxCell id="hn1NKW5ey4sbfua8mr8q-56" value="API Gateway" style="text;html=1;align=center;verticalAlign=middle;whiteSpace=wrap;rounded=0;" vertex="1" parent="1">
-          <mxGeometry x="813.75" y="389.5" width="70" height="57" as="geometry" />
+          <mxGeometry x="810.75" y="389.5" width="70" height="57" as="geometry" />
         </mxCell>
         <mxCell id="hn1NKW5ey4sbfua8mr8q-57" value="" style="endArrow=classic;startArrow=classic;html=1;rounded=0;exitX=0;exitY=0.5;exitDx=0;exitDy=0;exitPerimeter=0;entryX=1;entryY=0.5;entryDx=0;entryDy=0;entryPerimeter=0;" edge="1" parent="1" source="hn1NKW5ey4sbfua8mr8q-52" target="hn1NKW5ey4sbfua8mr8q-54">
           <mxGeometry width="50" height="50" relative="1" as="geometry">

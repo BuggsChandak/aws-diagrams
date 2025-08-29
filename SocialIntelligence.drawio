@@ -244,8 +244,8 @@
         <mxCell id="mqrPMeG1t2pJUvO1WKw1-53" value="feeds" style="text;strokeColor=none;align=center;fillColor=none;html=1;verticalAlign=middle;whiteSpace=wrap;rounded=0;" parent="MufeMbEMQpiEw7InIswr-2" vertex="1">
           <mxGeometry x="1179" y="572.5" width="73" height="29.5" as="geometry" />
         </mxCell>
-        <mxCell id="mqrPMeG1t2pJUvO1WKw1-54" value="Taxonomy data" style="text;html=1;align=center;verticalAlign=middle;whiteSpace=wrap;rounded=0;" parent="MufeMbEMQpiEw7InIswr-2" vertex="1">
-          <mxGeometry x="1228.75" y="602" width="130" height="20" as="geometry" />
+        <mxCell id="mqrPMeG1t2pJUvO1WKw1-54" value="Amazon S3 with Taxonomy data" style="text;html=1;align=center;verticalAlign=middle;whiteSpace=wrap;rounded=0;" parent="MufeMbEMQpiEw7InIswr-2" vertex="1">
+          <mxGeometry x="1235.75" y="602" width="130" height="20" as="geometry" />
         </mxCell>
         <mxCell id="mqrPMeG1t2pJUvO1WKw1-55" value="Search on" style="text;strokeColor=none;align=center;fillColor=none;html=1;verticalAlign=middle;whiteSpace=wrap;rounded=0;" parent="MufeMbEMQpiEw7InIswr-2" vertex="1">
           <mxGeometry x="1040" y="530" width="73" height="29.5" as="geometry" />
@@ -349,7 +349,7 @@
         <mxCell id="zAbW5wVqno82e7CFk5vz-19" value="feeds" style="text;strokeColor=none;align=center;fillColor=none;html=1;verticalAlign=middle;whiteSpace=wrap;rounded=0;" vertex="1" parent="MufeMbEMQpiEw7InIswr-2">
           <mxGeometry x="1183" y="430.25" width="73" height="29.5" as="geometry" />
         </mxCell>
-        <mxCell id="zAbW5wVqno82e7CFk5vz-20" value="Social Media Posts data" style="text;html=1;align=center;verticalAlign=middle;whiteSpace=wrap;rounded=0;" vertex="1" parent="MufeMbEMQpiEw7InIswr-2">
+        <mxCell id="zAbW5wVqno82e7CFk5vz-20" value="Amazon S3 with Social Media Posts data" style="text;html=1;align=center;verticalAlign=middle;whiteSpace=wrap;rounded=0;" vertex="1" parent="MufeMbEMQpiEw7InIswr-2">
           <mxGeometry x="1228.75" y="461.25" width="130" height="20" as="geometry" />
         </mxCell>
         <mxCell id="zAbW5wVqno82e7CFk5vz-21" value="Search on" style="text;strokeColor=none;align=center;fillColor=none;html=1;verticalAlign=middle;whiteSpace=wrap;rounded=0;" vertex="1" parent="MufeMbEMQpiEw7InIswr-2">
